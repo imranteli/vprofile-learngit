@@ -1,1 +1,4 @@
-this is the first line in git file
+Git is a VCS, mostly used by Developers.
+Being DevOps we use git to keep track of our scripts and conf files.
+We can also keep track of our documents.
+To better communicate with developers for Continous Integration, we need to learn git.
